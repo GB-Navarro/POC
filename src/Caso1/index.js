@@ -18,8 +18,8 @@ export default function Quadrados() {
                                     Devido a esse styled component Box ser renderizado individualmente
                                     no map, eu pensava que ao fazer a lógica dessa forma, apenas o box
                                     que sofreu o click teria a sua cor mudada, oque não acontece.
-                                    PS: Hoje eu já entendo o porque isso não acontece
-                                    PS.2: O modo que resolvi esse problema está no componente Caso2.
+
+                                    PS: O modo que resolvi esse problema está no componente Caso2.
                                 */
                                 }}> {element} </Box>
                             </>
